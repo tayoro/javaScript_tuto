@@ -1,0 +1,23 @@
+[
+    {
+        "nom": "Belchek romaric",
+        "age" : 35,
+        "sexe": "M",
+        "salaire": "17.000$" 
+
+    },
+    {
+        "nom": "Gnewa Gerard",
+        "age" : 58,
+        "sexe": "M",
+        "salaire": "70.000$" 
+
+    },
+    {
+        "nom": "Gbotta Jeanne",
+        "age" : 40,
+        "sexe": "F",
+        "salaire": "35.000$" 
+
+    }
+]

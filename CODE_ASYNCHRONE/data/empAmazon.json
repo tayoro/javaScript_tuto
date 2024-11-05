@@ -1,0 +1,23 @@
+[
+    {
+        "nom": "Alain Boin",
+        "age" : 30,
+        "sexe": "M",
+        "salaire": "30.000$" 
+
+    },
+    {
+        "nom": "Tayoro dido",
+        "age" : 35,
+        "sexe": "M",
+        "salaire": "20.000$" 
+
+    },
+    {
+        "nom": "Dido Romaric",
+        "age" : 40,
+        "sexe": "M",
+        "salaire": "35.000$" 
+
+    }
+]

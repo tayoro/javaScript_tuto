@@ -1,0 +1,23 @@
+[
+    {
+        "nom": "Nene Joel",
+        "age" : 29,
+        "sexe": "M",
+        "salaire": "10.000$" 
+
+    },
+    {
+        "nom": "Sery christian",
+        "age" : 58,
+        "sexe": "M",
+        "salaire": "170.000$" 
+
+    },
+    {
+        "nom": "Clariss Nana",
+        "age" : 40,
+        "sexe": "F",
+        "salaire": "35.000$" 
+
+    }
+]
